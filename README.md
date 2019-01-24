@@ -1,6 +1,4 @@
-# Pandas - Pandas, Pandas, Pandas
-
-# Unit 4 Assignment - Pandas, Pandas, Pandas
+# Unit 4 Assignment - Pandas - Pandas, Pandas, Pandas
 
 ## Background
 
